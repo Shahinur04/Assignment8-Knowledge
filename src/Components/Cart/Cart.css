@@ -1,0 +1,28 @@
+.album{
+    width: 900px;
+    height:470px ;
+}
+.authorImg{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.dynamic-container{
+    /* border: 2px solid black; */
+    /* padding: 15px; */
+    margin-top: 10px;
+}
+.publish{
+    margin-top: 40px;
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 15px;
+}
+.bro-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
